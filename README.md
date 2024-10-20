@@ -2,6 +2,13 @@
 <h3 align="center">Ingeniero en Diseño de Entretenimiento Digital, apasionado del modelado 3d y videojuegos",</h3>
 
 Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimiento Digital con énfasis desarrrollo de videojuegos, VR/AR, 3D/2D y game design.
+
+# Sobre mi!
+## 3d Modelling (Blender, substance, photoshop)
+Art Station
+
+<a href="https://www.artstation.com/eljuanes09"><img src="./assets/EdenComisionRenderF.png" style="height: 80%; width:80%;"/></a>
+
 <!--
 **ElJuanes/ElJuanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
