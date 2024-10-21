@@ -17,5 +17,6 @@ Escape Room en Realidad Virtual, para las Oculus Quest 2, desarrollado en colabo
 
 ## Unity Stuff
 Shaders 
-<a href="https://github.com/ElJuanes/CodeCrafters"><img src="./Files/GitHUb.mp4" style="height: 80%; width:80%;"/></a>
+[![Image Alt](MatCap).mp4)](https://github.com/user-attachments/assets/7aa355ae-8179-4580-9e3a-ddfdb0955469)
+[![Repo en GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElJuanes/CodeCrafters)
 
