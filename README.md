@@ -16,7 +16,9 @@ Mi Art Station
 Escape Room en Realidad Virtual, para las Oculus Quest 2, desarrollado en colaboración con los chicos de Diseño Grafico como uno de sus entregables de la Materia Taller 5.
 
 ## Tower Defense (Blunt Defender)
-<a href="https://phentecost.itch.io/blunt-defenders">
+
+
+<a href="https://phentecost.itch.io/blunt-defenders"><img src="https://img.itch.zone/aW1hZ2UvMjM2OTU3NC8xNDAzNDAwNC5qcGVn/original/w7v7NU.jpeg" style="height: 80%; width:80%;"/></a>
 
 ## Unity Stuff
 
