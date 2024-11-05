@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, Soy Juan Esteban Aristizábal Ortiz</h1>
+<h1 align="center">Bienvenido!, Soy Juan Esteban Aristizábal Ortiz</h1>
 <h3 align="center">Ingeniero en Diseño de Entretenimiento Digital, apasionado del modelado 3d y videojuegos",</h3>
 
 Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimiento Digital con énfasis desarrrollo de videojuegos, VR/AR, 3D/2D y game design.
