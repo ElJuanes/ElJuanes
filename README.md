@@ -1,11 +1,11 @@
-<h1 align="center">Bienvenido!, Soy Juan Esteban Aristizábal Ortiz</h1>
-<h3 align="center">Ingeniero en Diseño de Entretenimiento Digital, apasionado del modelado 3d y videojuegos",</h3>
+<h1 align="center">Welcome!, I'm Juan Esteban Aristizábal Ortiz</h1>
+<h3 align="center">Digital Entertainment Design Engineer, passionate about 3d modelling and videogames",</h3>
 
-Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimiento Digital con énfasis desarrrollo de videojuegos, VR/AR, 3D/2D y game design.
+I am studying my last semester of Digital Entertainment Design Engineering with emphasis on game development, VR/AR, 3D/2D and game design.
 
-# Sobre mi!
+# About Me!
 ## 3d Modelling (Blender, substance, photoshop)
-Mi Art Station
+My Art Station
 
 <a href="https://www.artstation.com/eljuanes09"><img src="./Files/EdenComisionRenderF.png" style="height: 80%; width:80%;"/></a>
 
@@ -13,7 +13,7 @@ Mi Art Station
 
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1727350323/video_to_markdown/images/youtube--iAl6ntwBWMo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=iAl6ntwBWMo "")
 
-Escape Room en Realidad Virtual, para las Oculus Quest 2, desarrollado en colaboración con los chicos de Diseño Grafico como uno de sus entregables de la Materia Taller 5.
+Escape Room in VR, for Oculus Quest 2.
 
 ## Tower Defense (Blunt Defender)
 
