@@ -9,7 +9,7 @@ Mi Art Station
 
 <a href="https://www.artstation.com/eljuanes09"><img src="./Files/EdenComisionRenderF.png" style="height: 80%; width:80%;"/></a>
 
-## Noctanbus VR (Be aware of effects on the game)
+## Noctanbus VR (Beware of flashy game effects)
 
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1727350323/video_to_markdown/images/youtube--iAl6ntwBWMo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=iAl6ntwBWMo "")
 
