@@ -5,7 +5,7 @@ I am studying my last semester of Digital Entertainment Design Engineering with 
 
 # About Me!
 ## 3d Modelling (Blender, substance, photoshop)
-My Art Station
+Click to go to my Art Station
 
 <a href="https://www.artstation.com/eljuanes09"><img src="./Files/EdenComisionRenderF.png" style="height: 80%; width:80%;"/></a>
 
