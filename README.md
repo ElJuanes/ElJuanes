@@ -13,7 +13,7 @@ Click to go to my Art Station
 
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1727350323/video_to_markdown/images/youtube--iAl6ntwBWMo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=iAl6ntwBWMo "")
 
-Escape Room in VR, for Oculus Quest 2.
+Escape Room in VR, tested with Oculus Quest 2.
 
 ## Tower Defense (Blunt Defender)
 
