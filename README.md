@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!, I'm Juanes </h1>
 <h3 align="center">Digital Entertainment Design Engineer, passionate about 3d modelling and videogames",</h3>
 
-I am studying my last semester of Digital Entertainment Design Engineering with emphasis on game development, VR/AR, 3D/2D and game design.
+Bachelor's degree in Digital Entertainment Design Engineering, with a specialization in the development of 3D and 2D content for businesses, video games, virtual reality (VR), and augmented reality (AR), as well as video game design.
 
 # About Me!
 ## 3d Modelling (Blender, substance, photoshop)
