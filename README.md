@@ -1,4 +1,4 @@
-<h1 align="center">Welcome!, I'm Juan Esteban Aristizábal Ortiz</h1>
+<h1 align="center">Welcome!, I'm Juanes </h1>
 <h3 align="center">Digital Entertainment Design Engineer, passionate about 3d modelling and videogames",</h3>
 
 I am studying my last semester of Digital Entertainment Design Engineering with emphasis on game development, VR/AR, 3D/2D and game design.
